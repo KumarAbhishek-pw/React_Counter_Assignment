@@ -1,0 +1,27 @@
+#container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: red;
+  width: 500px;
+  height: 300px;
+  text-align: center;
+  transform: translate(-50%,-50%);
+  border-radius: 20px;
+  
+}
+button{
+  margin: 10px;
+  border: none;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+h2{
+  font-size: 35px;
+  color: aliceblue;
+}
+
+
